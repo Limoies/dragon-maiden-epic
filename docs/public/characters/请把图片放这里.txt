@@ -1,0 +1,7 @@
+# 角色立绘文件夹——把图片放这里
+
+把莉娅的立绘图片放到这个文件夹：
+docs/public/characters/
+
+然后在 Markdown 中这样引用：
+![莉娅](/characters/liah.png)

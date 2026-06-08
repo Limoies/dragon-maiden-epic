@@ -1,0 +1,625 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\\u9879\u76EE\u6D41\u7A0B\u8BF4\u660E.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:\u9879\u76EE\u6D41\u7A0B\u8BF4\u660E.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\.vitepress\\theme\\components\\MapViewer.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\.vitepress\\theme\\components\\MapViewer.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\.vitepress\\theme\\components\\Timeline.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\.vitepress\\theme\\components\\Timeline.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\.vitepress\\theme\\components\\OCGallery.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\.vitepress\\theme\\components\\OCGallery.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\characters\\xia-yi.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\characters\\xia-yi.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\characters\\lilith.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\characters\\lilith.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\characters\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\characters\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\characters\\hunters-sisters.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\characters\\hunters-sisters.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\bestiary\\sub-dragons\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\bestiary\\sub-dragons\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\bestiary\\sub-dragons\\flying-dragons\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\bestiary\\sub-dragons\\flying-dragons\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\bestiary\\sub-dragons\\flying-dragons\\ember-spine-dragon.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\bestiary\\sub-dragons\\flying-dragons\\ember-spine-dragon.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\bestiary\\sub-dragons\\bird-dragons\\iron-beak-eagle.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\bestiary\\sub-dragons\\bird-dragons\\iron-beak-eagle.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\bestiary\\sub-dragons\\bird-dragons\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\bestiary\\sub-dragons\\bird-dragons\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\bestiary\\sub-dragons\\bird-dragons\\wind-owl-dragon.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\bestiary\\sub-dragons\\bird-dragons\\wind-owl-dragon.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\bestiary\\sub-dragons\\beast-dragons\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\bestiary\\sub-dragons\\beast-dragons\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\bestiary\\dragon-beasts\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\bestiary\\dragon-beasts\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\bestiary\\dragon-beasts\\wind-bell-dragon.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\bestiary\\dragon-beasts\\wind-bell-dragon.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\bestiary\\dragon-beasts\\forest-deer-dragon.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\bestiary\\dragon-beasts\\forest-deer-dragon.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\.vitepress\\theme\\components\\MagicParticles.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\.vitepress\\theme\\components\\MagicParticles.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\.vitepress\\theme\\components\\CustomHome.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\.vitepress\\theme\\components\\CustomHome.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\\u5185\u5BB9\u7ED3\u6784\u8349\u7A3F.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\\u5185\u5BB9\u7ED3\u6784\u8349\u7A3F.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\worldview\\overview.md||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\worldview\\overview.md||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\.vitepress\\config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\.vitepress\\config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\.vitepress\\theme\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\.vitepress\\theme\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\bestiary\\sub-dragons\\sea-dragons\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\bestiary\\sub-dragons\\sea-dragons\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\bestiary\\true-dragons\\god-level\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\bestiary\\true-dragons\\god-level\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\bestiary\\index.md||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\bestiary\\index.md||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\magic\\rune-magic.md||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\magic\\rune-magic.md||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\mythology\\the-first-witch.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\mythology\\the-first-witch.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\magic\\dragon-tongue.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\magic\\dragon-tongue.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\items\\pendant-of-purification.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\items\\pendant-of-purification.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\history\\the-three-eras.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\history\\the-three-eras.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\geography\\shayis-island.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\geography\\shayis-island.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\factions\\hunters-guild.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\factions\\hunters-guild.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\bestiary\\wind-owl-dragon.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\bestiary\\wind-owl-dragon.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 218,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MapViewer.vue",
+              "DocumentMoniker": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\.vitepress\\theme\\components\\MapViewer.vue",
+              "RelativeDocumentMoniker": "docs\\.vitepress\\theme\\components\\MapViewer.vue",
+              "ToolTip": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\.vitepress\\theme\\components\\MapViewer.vue",
+              "RelativeToolTip": "docs\\.vitepress\\theme\\components\\MapViewer.vue",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvxUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2026-06-08T10:13:11.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u9879\u76EE\u6D41\u7A0B\u8BF4\u660E.md",
+              "DocumentMoniker": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\\u9879\u76EE\u6D41\u7A0B\u8BF4\u660E.md",
+              "RelativeDocumentMoniker": "\u9879\u76EE\u6D41\u7A0B\u8BF4\u660E.md",
+              "ToolTip": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\\u9879\u76EE\u6D41\u7A0B\u8BF4\u660E.md",
+              "RelativeToolTip": "\u9879\u76EE\u6D41\u7A0B\u8BF4\u660E.md",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAGcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-08T09:09:03.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "lilith.md",
+              "DocumentMoniker": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\characters\\lilith.md",
+              "RelativeDocumentMoniker": "docs\\characters\\lilith.md",
+              "ToolTip": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\characters\\lilith.md",
+              "RelativeToolTip": "docs\\characters\\lilith.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-08T06:16:31.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "index.md",
+              "DocumentMoniker": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\characters\\index.md",
+              "RelativeDocumentMoniker": "docs\\characters\\index.md",
+              "ToolTip": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\characters\\index.md",
+              "RelativeToolTip": "docs\\characters\\index.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-08T06:16:27.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "index.md",
+              "DocumentMoniker": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\bestiary\\sub-dragons\\index.md",
+              "RelativeDocumentMoniker": "docs\\bestiary\\sub-dragons\\index.md",
+              "ToolTip": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\bestiary\\sub-dragons\\index.md",
+              "RelativeToolTip": "docs\\bestiary\\sub-dragons\\index.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-08T06:16:18.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "index.md",
+              "DocumentMoniker": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\bestiary\\sub-dragons\\flying-dragons\\index.md",
+              "RelativeDocumentMoniker": "docs\\bestiary\\sub-dragons\\flying-dragons\\index.md",
+              "ToolTip": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\bestiary\\sub-dragons\\flying-dragons\\index.md",
+              "RelativeToolTip": "docs\\bestiary\\sub-dragons\\flying-dragons\\index.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-08T06:16:14.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ember-spine-dragon.md",
+              "DocumentMoniker": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\bestiary\\sub-dragons\\flying-dragons\\ember-spine-dragon.md",
+              "RelativeDocumentMoniker": "docs\\bestiary\\sub-dragons\\flying-dragons\\ember-spine-dragon.md",
+              "ToolTip": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\bestiary\\sub-dragons\\flying-dragons\\ember-spine-dragon.md",
+              "RelativeToolTip": "docs\\bestiary\\sub-dragons\\flying-dragons\\ember-spine-dragon.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-08T06:16:13.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "wind-owl-dragon.md",
+              "DocumentMoniker": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\bestiary\\sub-dragons\\bird-dragons\\wind-owl-dragon.md",
+              "RelativeDocumentMoniker": "docs\\bestiary\\sub-dragons\\bird-dragons\\wind-owl-dragon.md",
+              "ToolTip": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\bestiary\\sub-dragons\\bird-dragons\\wind-owl-dragon.md",
+              "RelativeToolTip": "docs\\bestiary\\sub-dragons\\bird-dragons\\wind-owl-dragon.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-08T06:16:08.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "iron-beak-eagle.md",
+              "DocumentMoniker": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\bestiary\\sub-dragons\\bird-dragons\\iron-beak-eagle.md",
+              "RelativeDocumentMoniker": "docs\\bestiary\\sub-dragons\\bird-dragons\\iron-beak-eagle.md",
+              "ToolTip": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\bestiary\\sub-dragons\\bird-dragons\\iron-beak-eagle.md",
+              "RelativeToolTip": "docs\\bestiary\\sub-dragons\\bird-dragons\\iron-beak-eagle.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-08T06:16:07.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "index.md",
+              "DocumentMoniker": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\bestiary\\sub-dragons\\bird-dragons\\index.md",
+              "RelativeDocumentMoniker": "docs\\bestiary\\sub-dragons\\bird-dragons\\index.md",
+              "ToolTip": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\bestiary\\sub-dragons\\bird-dragons\\index.md",
+              "RelativeToolTip": "docs\\bestiary\\sub-dragons\\bird-dragons\\index.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-08T06:16:06.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "index.md",
+              "DocumentMoniker": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\bestiary\\sub-dragons\\beast-dragons\\index.md",
+              "RelativeDocumentMoniker": "docs\\bestiary\\sub-dragons\\beast-dragons\\index.md",
+              "ToolTip": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\bestiary\\sub-dragons\\beast-dragons\\index.md",
+              "RelativeToolTip": "docs\\bestiary\\sub-dragons\\beast-dragons\\index.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-08T06:16:03.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "wind-bell-dragon.md",
+              "DocumentMoniker": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\bestiary\\dragon-beasts\\wind-bell-dragon.md",
+              "RelativeDocumentMoniker": "docs\\bestiary\\dragon-beasts\\wind-bell-dragon.md",
+              "ToolTip": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\bestiary\\dragon-beasts\\wind-bell-dragon.md",
+              "RelativeToolTip": "docs\\bestiary\\dragon-beasts\\wind-bell-dragon.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-08T06:15:54.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "index.md",
+              "DocumentMoniker": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\bestiary\\dragon-beasts\\index.md",
+              "RelativeDocumentMoniker": "docs\\bestiary\\dragon-beasts\\index.md",
+              "ToolTip": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\bestiary\\dragon-beasts\\index.md",
+              "RelativeToolTip": "docs\\bestiary\\dragon-beasts\\index.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-08T06:15:52.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "forest-deer-dragon.md",
+              "DocumentMoniker": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\bestiary\\dragon-beasts\\forest-deer-dragon.md",
+              "RelativeDocumentMoniker": "docs\\bestiary\\dragon-beasts\\forest-deer-dragon.md",
+              "ToolTip": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\bestiary\\dragon-beasts\\forest-deer-dragon.md",
+              "RelativeToolTip": "docs\\bestiary\\dragon-beasts\\forest-deer-dragon.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-08T06:15:51.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Timeline.vue",
+              "DocumentMoniker": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\.vitepress\\theme\\components\\Timeline.vue",
+              "RelativeDocumentMoniker": "docs\\.vitepress\\theme\\components\\Timeline.vue",
+              "ToolTip": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\.vitepress\\theme\\components\\Timeline.vue",
+              "RelativeToolTip": "docs\\.vitepress\\theme\\components\\Timeline.vue",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2026-06-08T06:15:34.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OCGallery.vue",
+              "DocumentMoniker": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\.vitepress\\theme\\components\\OCGallery.vue",
+              "RelativeDocumentMoniker": "docs\\.vitepress\\theme\\components\\OCGallery.vue",
+              "ToolTip": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\.vitepress\\theme\\components\\OCGallery.vue",
+              "RelativeToolTip": "docs\\.vitepress\\theme\\components\\OCGallery.vue",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2026-06-08T06:15:32.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MagicParticles.vue",
+              "DocumentMoniker": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\.vitepress\\theme\\components\\MagicParticles.vue",
+              "RelativeDocumentMoniker": "docs\\.vitepress\\theme\\components\\MagicParticles.vue",
+              "ToolTip": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\.vitepress\\theme\\components\\MagicParticles.vue",
+              "RelativeToolTip": "docs\\.vitepress\\theme\\components\\MagicParticles.vue",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2026-06-08T06:15:29.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "\u5185\u5BB9\u7ED3\u6784\u8349\u7A3F.txt",
+              "DocumentMoniker": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\\u5185\u5BB9\u7ED3\u6784\u8349\u7A3F.txt",
+              "RelativeDocumentMoniker": "docs\\\u5185\u5BB9\u7ED3\u6784\u8349\u7A3F.txt",
+              "ToolTip": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\\u5185\u5BB9\u7ED3\u6784\u8349\u7A3F.txt",
+              "RelativeToolTip": "docs\\\u5185\u5BB9\u7ED3\u6784\u8349\u7A3F.txt",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-06-08T02:46:57.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CustomHome.vue",
+              "DocumentMoniker": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\.vitepress\\theme\\components\\CustomHome.vue",
+              "RelativeDocumentMoniker": "docs\\.vitepress\\theme\\components\\CustomHome.vue",
+              "ToolTip": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\.vitepress\\theme\\components\\CustomHome.vue",
+              "RelativeToolTip": "docs\\.vitepress\\theme\\components\\CustomHome.vue",
+              "ViewState": "AQIAADUBAAAAAAAAAAAAABwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2026-06-07T16:47:34.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "index.ts",
+              "DocumentMoniker": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\.vitepress\\theme\\index.ts",
+              "RelativeDocumentMoniker": "docs\\.vitepress\\theme\\index.ts",
+              "ToolTip": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\.vitepress\\theme\\index.ts",
+              "RelativeToolTip": "docs\\.vitepress\\theme\\index.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-06-07T16:47:14.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "index.md",
+              "DocumentMoniker": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\bestiary\\sub-dragons\\sea-dragons\\index.md",
+              "RelativeDocumentMoniker": "docs\\bestiary\\sub-dragons\\sea-dragons\\index.md",
+              "ToolTip": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\bestiary\\sub-dragons\\sea-dragons\\index.md",
+              "RelativeToolTip": "docs\\bestiary\\sub-dragons\\sea-dragons\\index.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-07T16:36:17.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "index.md",
+              "DocumentMoniker": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\bestiary\\true-dragons\\god-level\\index.md",
+              "RelativeDocumentMoniker": "docs\\bestiary\\true-dragons\\god-level\\index.md",
+              "ToolTip": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\bestiary\\true-dragons\\god-level\\index.md",
+              "RelativeToolTip": "docs\\bestiary\\true-dragons\\god-level\\index.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-07T16:35:37.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "index.md",
+              "DocumentMoniker": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\bestiary\\index.md",
+              "RelativeDocumentMoniker": "docs\\bestiary\\index.md",
+              "ToolTip": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\bestiary\\index.md",
+              "RelativeToolTip": "docs\\bestiary\\index.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-07T16:23:11.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "hunters-sisters.md",
+              "DocumentMoniker": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\characters\\hunters-sisters.md",
+              "RelativeDocumentMoniker": "docs\\characters\\hunters-sisters.md",
+              "ToolTip": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\characters\\hunters-sisters.md",
+              "RelativeToolTip": "docs\\characters\\hunters-sisters.md",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAAAEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-07T16:16:34.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "rune-magic.md",
+              "DocumentMoniker": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\magic\\rune-magic.md",
+              "RelativeDocumentMoniker": "docs\\magic\\rune-magic.md",
+              "ToolTip": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\magic\\rune-magic.md",
+              "RelativeToolTip": "docs\\magic\\rune-magic.md",
+              "ViewState": "AQIAAMgAAAAAAAAAAAAAwNYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-07T16:14:06.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "index.md",
+              "DocumentMoniker": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\index.md",
+              "RelativeDocumentMoniker": "docs\\index.md",
+              "ToolTip": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\index.md",
+              "RelativeToolTip": "docs\\index.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-07T16:07:34.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "pendant-of-purification.md",
+              "DocumentMoniker": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\items\\pendant-of-purification.md",
+              "RelativeDocumentMoniker": "docs\\items\\pendant-of-purification.md",
+              "ToolTip": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\items\\pendant-of-purification.md",
+              "RelativeToolTip": "docs\\items\\pendant-of-purification.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-07T15:54:57.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "wind-owl-dragon.md",
+              "DocumentMoniker": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\bestiary\\wind-owl-dragon.md",
+              "RelativeDocumentMoniker": "docs\\bestiary\\wind-owl-dragon.md",
+              "ToolTip": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\bestiary\\wind-owl-dragon.md",
+              "RelativeToolTip": "docs\\bestiary\\wind-owl-dragon.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-07T15:54:35.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "hunters-guild.md",
+              "DocumentMoniker": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\factions\\hunters-guild.md",
+              "RelativeDocumentMoniker": "docs\\factions\\hunters-guild.md",
+              "ToolTip": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\factions\\hunters-guild.md",
+              "RelativeToolTip": "docs\\factions\\hunters-guild.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-07T15:54:07.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "the-three-eras.md",
+              "DocumentMoniker": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\history\\the-three-eras.md",
+              "RelativeDocumentMoniker": "docs\\history\\the-three-eras.md",
+              "ToolTip": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\history\\the-three-eras.md",
+              "RelativeToolTip": "docs\\history\\the-three-eras.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-07T15:53:39.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "dragon-tongue.md",
+              "DocumentMoniker": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\magic\\dragon-tongue.md",
+              "RelativeDocumentMoniker": "docs\\magic\\dragon-tongue.md",
+              "ToolTip": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\magic\\dragon-tongue.md",
+              "RelativeToolTip": "docs\\magic\\dragon-tongue.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-07T15:53:13.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "xia-yi.md",
+              "DocumentMoniker": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\characters\\xia-yi.md",
+              "RelativeDocumentMoniker": "docs\\characters\\xia-yi.md",
+              "ToolTip": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\characters\\xia-yi.md",
+              "RelativeToolTip": "docs\\characters\\xia-yi.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-07T15:52:48.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "shayis-island.md",
+              "DocumentMoniker": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\geography\\shayis-island.md",
+              "RelativeDocumentMoniker": "docs\\geography\\shayis-island.md",
+              "ToolTip": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\geography\\shayis-island.md",
+              "RelativeToolTip": "docs\\geography\\shayis-island.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-07T15:52:30.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "the-first-witch.md",
+              "DocumentMoniker": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\mythology\\the-first-witch.md",
+              "RelativeDocumentMoniker": "docs\\mythology\\the-first-witch.md",
+              "ToolTip": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\mythology\\the-first-witch.md",
+              "RelativeToolTip": "docs\\mythology\\the-first-witch.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-07T15:52:08.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "overview.md",
+              "DocumentMoniker": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\worldview\\overview.md",
+              "RelativeDocumentMoniker": "docs\\worldview\\overview.md",
+              "ToolTip": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\worldview\\overview.md",
+              "RelativeToolTip": "docs\\worldview\\overview.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-07T15:51:35.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "config.ts",
+              "DocumentMoniker": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\.vitepress\\config.ts",
+              "RelativeDocumentMoniker": "docs\\.vitepress\\config.ts",
+              "ToolTip": "C:\\Users\\35961\\Desktop\\A_my-world\\vitepress-project\\docs\\.vitepress\\config.ts",
+              "RelativeToolTip": "docs\\.vitepress\\config.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-06-07T15:48:22.039Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
