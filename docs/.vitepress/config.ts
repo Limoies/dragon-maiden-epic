@@ -19,6 +19,7 @@ export default defineConfig({
       { text: '魔法', link: '/magic/system/' },
       { text: '历史', link: '/history/' },
       { text: '图鉴', link: '/bestiary/index' },
+      { text: '小说', link: '/novel/' },
     ],
 
     // 侧边栏配置
